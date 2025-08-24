@@ -226,6 +226,7 @@
   ./programs/foot
   ./programs/freetds.nix
   ./programs/fuse.nix
+  ./programs/fzf-tab-completion.nix
   ./programs/fzf.nix
   ./programs/gamemode.nix
   ./programs/gamescope.nix
